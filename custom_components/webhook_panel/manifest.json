@@ -1,0 +1,9 @@
+{
+  "domain": "webhook_panel",
+  "name": "Webhook Panel",
+  "version": "0.0.1",
+  "config_flow": true,
+  "integration_type": "service",
+  "requirements": [],
+  "codeowners": ["artt652"]
+}
