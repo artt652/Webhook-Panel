@@ -4,7 +4,10 @@
       "single_instance_allowed": "Only one instance of Webhook Panel is allowed."
     },
     "step": {
-      "finish": "Finish"
+      "finish": {
+        "title": "Finish",
+        "description": "Setup completed."
+      }
     }
   }
 }
