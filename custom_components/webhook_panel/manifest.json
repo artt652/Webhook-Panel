@@ -1,10 +1,11 @@
 {
   "domain": "webhook_panel",
-  "documentation": "https://github.com/artt652/Webhook-Panel",
   "name": "Webhook Panel",
-  "version": "0.0.1",
+  "codeowners": ["@artt652"],
+  "documentation": "https://github.com/artt652/Webhook-Panel",
   "config_flow": true,
   "integration_type": "service",
+  "issue_tracker": "https://github.com/artt652/Webhook-Panel/issues"
   "requirements": [],
-  "codeowners": ["artt652"]
+  "version": "0.0.1"
 }
