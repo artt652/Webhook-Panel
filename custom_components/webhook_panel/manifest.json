@@ -5,7 +5,7 @@
   "documentation": "https://github.com/artt652/Webhook-Panel",
   "config_flow": true,
   "integration_type": "service",
-  "issue_tracker": "https://github.com/artt652/Webhook-Panel/issues"
+  "issue_tracker": "https://github.com/artt652/Webhook-Panel/issues",
   "requirements": [],
   "version": "0.0.1"
 }
