@@ -1,5 +1,6 @@
 {
   "domain": "webhook_panel",
+  "documentation": "https://github.com/artt652/Webhook-Panel",
   "name": "Webhook Panel",
   "version": "0.0.1",
   "config_flow": true,
