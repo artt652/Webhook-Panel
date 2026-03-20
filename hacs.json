@@ -1,7 +1,6 @@
 {
     "name": "Webhook Panel",
     "zip_release": false,
-    "documentation": "https://github.com/artt652/Webhook-Panel",
     "render_readme": true,
     "homeassistant": "2023.5.0"
 }
