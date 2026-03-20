@@ -12,3 +12,5 @@ jobs:
       - uses: "hacs/action@main"
         with: 
           category: "integration"
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
